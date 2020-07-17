@@ -1,4 +1,8 @@
-### Hi there 👋
+### I'm Wonny! 👋
+
+- I'm front-end engineer at startup 🚀
+- Now I work at [healingpaper](http://www.healingpaper.com/).
+- I worked at [Trevari](https://trevari.co.kr/) and another startups. Trevari is special company to me. I learn a lot of life principle that help I live happier 🥰 I always thank crew of trevari.
 
 <!--
 **wonny-log/wonny-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
