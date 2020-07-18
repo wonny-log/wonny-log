@@ -1,8 +1,9 @@
-### I'm Wonny! 👋
+### Wonny
+#### Growth oriented Engineer 🔥
 
 - I'm a front-end engineer working at startup 🚀
 - Now I work at [healingpaper](http://www.healingpaper.com/).
-- I worked at [Trevari](https://trevari.co.kr/) and another startups. Trevari is special company to me. I learn a lot of life principles that help I live happier 🥰 I always thank crew of trevari.
+- I worked at [Trevari](https://trevari.co.kr/) and another startups. Trevari is special company to me. I learn a lot of life principles that help I live happier 🥰
 
 ### What I Love ❤️
 
