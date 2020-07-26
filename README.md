@@ -11,7 +11,7 @@
 - Great Books: 바른마음, 딥 워크, 불렛저널, 그릿, 일하는 마음, 당신 인생의 이야기 등
 - Musics: 막스 리히터 등
 
-// TODO: I will probably update here 😅.
+// TODO: I will update here, maybe 😅.
 
 <!--
 **wonny-log/wonny-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
