@@ -13,6 +13,9 @@
 
 // TODO: I will update here, maybe 😅.
 
+**My Blog**
+- https://brunch.co.kr/@hee072794
+
 <!--
 **wonny-log/wonny-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
