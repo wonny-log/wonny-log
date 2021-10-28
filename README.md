@@ -6,6 +6,7 @@
 - I worked at [Trevari](https://trevari.co.kr/) and another startups.
 
 **My Blog**
+- https://wonny.space/
 - https://brunch.co.kr/@hee072794
 
 <!--
